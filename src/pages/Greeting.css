@@ -1,0 +1,17 @@
+/* src/pages/greeting/Greeting.css */
+.greeting {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .greeting h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .greeting .button {
+    margin-top: 20px;
+  }
+  

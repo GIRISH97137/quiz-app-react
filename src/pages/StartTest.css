@@ -1,0 +1,17 @@
+/* src/pages/start-test/StartTest.css */
+.start-test {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding: 50px;
+  }
+  
+  .start-test h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .start-test .button {
+    margin: 10px 0;
+  }
+  
